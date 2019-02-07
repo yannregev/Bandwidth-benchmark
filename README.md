@@ -1,5 +1,7 @@
 # Bandwidth-benchmark
-Assembly code to check computer benchmark. Link with gcc.
+Assembly code to check computer benchmark.
+Written in x86_64 at&t mac assembly.
+Link with gcc.
 
 This test calculates based on several parameters
 Copy - Copy from one location of the memory to another.
